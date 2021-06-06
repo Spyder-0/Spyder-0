@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SpyderGamer
 - 👀 I’m interested in Unity Game Development and Python
 - 🌱 I’m currently learning C# and Unity
+- Subscribe to my channel :)
 
 <!---
 SpyderGamer/SpyderGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
