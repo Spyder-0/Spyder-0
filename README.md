@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpyderGamer
 - 👀 I’m interested in Unity Game Development and Python
-- 🌱 I’m currently learning C# and Unity
+- 🌱 I’m currently learning C# and Python and Unity
 - Subscribe to my channel :)
 
 <!---
