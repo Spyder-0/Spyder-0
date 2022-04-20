@@ -5,7 +5,8 @@
 
 # Links ✨
 Youtube: https://www.youtube.com/SpyderGamer <br/>
-Itch.io: https://spydergamer.itch.io/
+Itch.io: https://spydergamer.itch.io/ <br/>
+Discord: https://discord.gg/anaAgvYcwZ <br/>
 
 # WIP Projects 🧾
 My Game (Made with Unity): https://spydergamer.itch.io/grapple
