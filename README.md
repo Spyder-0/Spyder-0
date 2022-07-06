@@ -1,7 +1,11 @@
+<p>
+  <h1 align="center"><b>Heya, I'm Spyder 👋</b></h1>
+</p>
+
 # About Me!
 - 👋 Hi, I’m @SpyderGamer
-- 👀 I’m interested in Unity Game Development and Python
-- 🌱 I’m currently learning C# and Python and Unity
+- 👀 I’m interested in Unity Game Development and Python.
+- 🌱 I’m currently learning C#, Python, Unity, Javascript and Bash!
 
 # Links ✨
 Youtube: https://www.youtube.com/SpyderGamer <br/>
