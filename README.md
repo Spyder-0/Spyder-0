@@ -6,6 +6,7 @@
 
 # About Me!
 - 👋 Hi, I’m @SpyderGamer
+- 🐧 Linux and Windows enthusiast.
 - 👀 I’m interested in Unity Game Development and Python.
 - 🌱 I’m currently learning C#, Python, Unity, Javascript and Bash!
 
