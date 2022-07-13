@@ -2,7 +2,7 @@
   <h1 align="center"><b>Heya, I'm Spyder 👋</b></h1>
 </p>
 
-![Github ReadMe Banner](https://user-images.githubusercontent.com/85440857/178582039-e458469c-4fa9-4a1b-82ad-cf81603f2631.png)
+![Github README Profile Banner](https://user-images.githubusercontent.com/85440857/178699988-cd944a32-a22b-48a3-841c-5b5aee415d97.png)
 
 # About Me!
 - 👋 Hi, I’m @SpyderGamer
