@@ -7,16 +7,26 @@
 # About Me!
 - 👋 Hi, I’m @SpyderGamer
 - 🐧 Linux and Windows enthusiast.
-- 👀 I’m interested in Unity Game Development and Python.
+- 👀 I’m interested in Unity Game Development and Anything to do with Computers.
 - 🌱 I’m currently learning C#, Python, Unity, Javascript and Bash!
 
 # Links ✨
-Youtube: https://www.youtube.com/SpyderGamer <br/>
-Itch.io: https://spydergamer.itch.io/ <br/>
-Discord: https://discord.gg/anaAgvYcwZ <br/>
+**Youtube:** https://www.youtube.com/SpyderGamer <br/>
+**Itch.io:** https://spydergamer.itch.io/ <br/>
+**Discord:** https://discord.gg/anaAgvYcwZ <br/>
+
+# Highlighted Repos 📦
+**Space Invaders with Python:** https://github.com/SpyderGamer/Space-Invaders-with-Python <br/>
+**Zelda with Python:** https://github.com/SpyderGamer/Zelda-with-Python <br/>
+**Minecraft with Python:** https://github.com/SpyderGamer/Minecraft-with-Python <br/>
 
 # WIP Projects 🧾
-My Game (Made with Unity): https://spydergamer.itch.io/grapple
+**Grapple (Made with Unity):** https://spydergamer.itch.io/grapple
+
+# Stats 📊
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpyderGamer&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyderGamer&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 SpyderGamer/SpyderGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
