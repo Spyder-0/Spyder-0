@@ -15,7 +15,7 @@
 **Itch.io:** https://spydergamer.itch.io/ <br/>
 **Discord:** https://discord.gg/anaAgvYcwZ <br/>
 
-# Highlighted Repos 📦
+# Highlighted Repos 📁
 **Space Invaders with Python:** https://github.com/SpyderGamer/Space-Invaders-with-Python <br/>
 **Zelda with Python:** https://github.com/SpyderGamer/Zelda-with-Python <br/>
 **Minecraft with Python:** https://github.com/SpyderGamer/Minecraft-with-Python <br/>
