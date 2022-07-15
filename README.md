@@ -8,7 +8,7 @@
 - 👋 Hi, I’m @SpyderGamer
 - 🐧 Linux and Windows enthusiast.
 - 👀 I’m interested in Unity Game Development and Anything to do with Computers.
-- 🌱 I’m currently learning C#, Python, Unity, Javascript and Bash!
+- 📚 I’m currently learning C#, Python, Unity, Javascript and Bash!
 
 # Links ✨
 **Youtube:** https://www.youtube.com/SpyderGamer <br/>
