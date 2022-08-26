@@ -12,7 +12,7 @@
 
 # Links ✨
 **Youtube:** https://www.youtube.com/SpyderGamer <br/>
-**Itch.io:** https://spydergamer.itch.io/ <br/>
+**Itch.io:** https://spydergamer.itch.io <br/>
 **Discord:** https://discord.gg/anaAgvYcwZ <br/>
 
 # Highlighted Repos 📁
