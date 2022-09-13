@@ -31,7 +31,7 @@
 # Stats 📊
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpyderGamer&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyderGamer&theme=synthwave&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Made with ♥ by Spyder.
 
