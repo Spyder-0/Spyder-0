@@ -22,18 +22,14 @@
 **Minecraft with Python:** https://github.com/SpyderGamer/Minecraft-with-Python <br/>
 **Typewriter Effect in Python:** https://github.com/SpyderGamer/Typewriter-Effect-in-Python <br/>
 
-<!---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpyderGamer&repo=Zelda-with-Python&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpyderGamer&repo=Minecraft-with-Python&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpyderGamer&repo=Space-Invaders-with-Python&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
---->
-
 # WIP Projects 🧾
 [Not Completed] **Grapple (Made with Unity):** https://spydergamer.itch.io/grapple <br/>
 [Not Completed] **Linux Terminal for Newbies:** https://github.com/SpyderGamer/Linux-Terminal-for-Newbies <br/>
 
 # Stats 📊
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpyderGamer&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpyderGamer&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyderGamer&theme=synthwave&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyderGamer&langs_count=9&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 Made with ♥ by Spyder.
 
