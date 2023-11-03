@@ -1,12 +1,12 @@
-<!---
-Hello there.
---->
-
 <p>
   <h1 align="center"><b>Heya, I'm Spyder 👋</b></h1>
 </p>
 
+
+<!---
 ![Github README Profile Banner](https://user-images.githubusercontent.com/85440857/179219813-a36bb029-46c2-4b36-a7bd-114327eb9a60.png)
+--->
+
 
 # About Me!
 - 👋 Hi, I’m Spyder!
@@ -25,5 +25,4 @@ Made with ♥ by Spyder.
 <!---
 SpyderGamer/SpyderGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-Yes.
 --->
