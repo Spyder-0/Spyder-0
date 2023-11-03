@@ -1,14 +1,12 @@
+<!---
 <p>
   <h1 align="center"><b>Heya, I'm Spyder 👋</b></h1>
 </p>
 
-
-<!---
 ![Github README Profile Banner](https://user-images.githubusercontent.com/85440857/179219813-a36bb029-46c2-4b36-a7bd-114327eb9a60.png)
 --->
 
-
-# About Me!
+# About Me
 - 👋 Hi, I’m Spyder!
 - 🐧 Linux and Windows enthusiast.
 - 🔓 Open Source advocate.
