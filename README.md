@@ -11,7 +11,7 @@
 - 🐧 Linux and Windows enthusiast.
 - 🔓 Open Source advocate.
 - 👀 I’m interested in Game Development and Anything to do with Computers.
-- 📚 I’m currently learning C#, Python, Unity, Javascript and Bash!
+- 📚 I’m currently learning Python, Godot, and Bash!
 
 # Stats 📊
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpyderGamer&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
